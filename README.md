@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 <h2 align="left">License</h2>
 
-[![Licence](https://img.shields.io/github/license/sophearyrin-dev/profile?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/sophearyrin-dev/sophearyrin-dev?style=for-the-badge)](./LICENSE)
