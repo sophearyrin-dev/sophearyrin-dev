@@ -4,13 +4,13 @@
 <a href="https://www.instagram.com/sophearyrinn/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <!-- ## Hello 👋, I'm [Sopheary Rin!](https://github.com/sophearyrin-dev/) -->
-<h2 align="center" color="blue">Hello 👋, I'm [Sopheary Rin!]</h2>
+<h2 align="center" color="blue">Hello 👋, I'm [Sopheary Rin]</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sophearyrin)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/sophearyrin-dev/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
 
-<img align="right" alt="Coding" width="150" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" />
+<img align="right" alt="Coding" width="50" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" />
 <!-- <img src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" style ="width: 100px; height: 100px;"/> -->
 
 Here about me:
