@@ -5,6 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sophearyrin)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/sophearyrin-dev/)
+![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
 
 <img src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" style ="width: 100px; height: 100px;"/>
 
