@@ -12,7 +12,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/sophearyrin-dev/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
 
-<img align="right" alt="Coding" width="200" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" />
+<img align="right" alt="Coding" width="100" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" />
 
 Here about me:
 - 🔭 I am looking for a fulltime job on W2 under CPT as a Backend Java Developer or Fullstack.
