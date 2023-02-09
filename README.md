@@ -1,4 +1,7 @@
-![MasterHead](https://marketplace.canva.com/EAFFI2trtnE/1/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-cqVV-6-1kOk.jpg)
+<!-- ![MasterHead](https://marketplace.canva.com/EAFFI2trtnE/1/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-cqVV-6-1kOk.jpg) -->
+![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
+
+<!-- https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png -->
 
 <a href="https://twitter.com/RinSopheary" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.instagram.com/sophearyrinn/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
