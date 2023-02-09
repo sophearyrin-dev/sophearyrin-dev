@@ -14,7 +14,11 @@
 <!-- <img src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" style ="width: 100px; height: 100px;"/> -->
 
 Here about me:
-- I am looking for fulltime job on W2 under CPT as a Backend Java Developer or Fullstack
+- 🔭 I am looking for a fulltime job on W2 under CPT as a Backend Java Developer or Fullstack.
+- 👯 I’m looking for someone to join with my leetcodaily
+- 🤝 I’m looking for help with an interview mockup
+- 🌱 I’m building up my skill everydays
+- ⚡ Fun fact: I think I am funny
 - If any projects, you find useful feel free to contribute
 
 
