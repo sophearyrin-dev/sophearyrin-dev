@@ -24,7 +24,7 @@ Here about me:
 
 
 ![Sopheary's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/sophearyrin-dev/github-readme-stats)
 
 <hr>
 <h2 align="center">Languages & Tool</h2>
