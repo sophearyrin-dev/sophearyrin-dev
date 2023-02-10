@@ -12,7 +12,11 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/sophearyrin-dev/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
 
-<img align="right" alt="Coding" width="100" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" />
+<!-- <img align="right" alt="Coding" width="100" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" /> -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&locale=en&hide_border=true" alt="sophearyrin-dev" /></p>
+
+<hr>
 
 Here about me:
 - 🔭 I am looking for a fulltime job on W2 under CPT as a Backend Java Developer or Fullstack.
@@ -23,15 +27,17 @@ Here about me:
 - If any projects, you find useful feel free to contribute
 
 
-![Sopheary's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&hide_border=true)
+<!-- ![Sopheary's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/sophearyrin-dev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/sophearyrin-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/sophearyrin-dev/github-readme-stats) -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophearyrin-dev&show_icons=true&locale=en&layout=compact" alt="sophearyrin-dev" /></p>
+
 
 <hr>
 <h2 align="center">Languages & Tool</h2>
 <br>
-
 <!-- <p align="center">
 
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
@@ -130,7 +136,7 @@ Here about me:
                 height="40" /> </a> 
     </p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophearyrin-dev&" alt="sophearyrin-dev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophearyrin-dev&" alt="sophearyrin-dev" /></p>
 
 <hr>
 <h2 align="left">License</h2>
