@@ -9,7 +9,7 @@
 <h2 align="center" color="blue">👋, I'm Sopheary</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sophearyrin)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/sophearyrin-dev/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sophearyrin-dev.github.io/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
 
 <!-- <img align="right" alt="Coding" width="100" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" /> -->
