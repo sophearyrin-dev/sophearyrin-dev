@@ -142,3 +142,6 @@ Here about me:
 <h2 align="left">License</h2>
 
 [![Licence](https://img.shields.io/github/license/sophearyrin-dev/sophearyrin-dev?style=for-the-badge)](./LICENSE)
+
+## Snack Contribution
+![snake gif](https://github.com/sophearyrin-dev/sophearyrin-dev/blob/output/github-contribution-grid-snake.gif)
