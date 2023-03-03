@@ -16,6 +16,11 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&locale=en&hide_border=true" alt="sophearyrin-dev" /></p>
 
+
+## Snack Contribution
+
+![snake gif](https://github.com/sophearyrin-dev/sophearyrin-dev/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 
 Here about me:
@@ -33,7 +38,6 @@ Here about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/sophearyrin-dev/github-readme-stats) -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophearyrin-dev&show_icons=true&locale=en&layout=compact" alt="sophearyrin-dev" /></p>
-
 
 <hr>
 <h2 align="center">Languages & Tool</h2>
@@ -142,6 +146,3 @@ Here about me:
 <h2 align="left">License</h2>
 
 [![Licence](https://img.shields.io/github/license/sophearyrin-dev/sophearyrin-dev?style=for-the-badge)](./LICENSE)
-
-## Snack Contribution
-![snake gif](https://github.com/sophearyrin-dev/sophearyrin-dev/blob/output/github-contribution-grid-snake.svg)
