@@ -24,7 +24,7 @@
 <hr>
 
 Here about me:
-- 🔭 I am looking for a fulltime job on W2 under CPT as a Backend Java Developer or Fullstack.
+- 🔭 I am looking for a fulltime job on W2 under CPT as a Backend Java Developer
 - 👯 I’m looking for someone to join with my leetcodaily
 - 🤝 I’m looking for help with an interview mockup
 - 🌱 I’m building up my skill everydays
