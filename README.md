@@ -6,7 +6,32 @@
 <a href="https://twitter.com/RinSopheary" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.instagram.com/sophearyrinn/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<h2 align="center" color="blue">👋 Hello, I'm Sopheary</h2>
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+<h2 align="center" color="blue"></h2>
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sophearyrin-dev.github.io/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
@@ -28,18 +53,6 @@
 </samp>
 
 <hr>
-
-<div style="font-family: Arial, sans-serif; background-color: #f0f8ff; color: #333; margin: 20px;">
-    <h2 style="text-align: center; color: #4CAF50;">Here about me:</h2>
-    <ul style="list-style-type: none; padding: 0;">
-        <li style="margin-bottom: 10px;">🔭 <span style="color: #FF6347;">I am looking for a fulltime job on W2 under CPT as a Backend Java Developer</span></li>
-        <li style="margin-bottom: 10px;">👯 <span style="color: #1E90FF;">I’m looking for someone to join with my leetcodaily</span></li>
-        <li style="margin-bottom: 10px;">🤝 <span style="color: #FFD700;">I’m looking for help with an interview mockup</span></li>
-        <li style="margin-bottom: 10px;">🌱 <span style="color: #32CD32;">I’m building up my skill everydays</span></li>
-        <li style="margin-bottom: 10px;">⚡ <span style="color: #FF4500;">Fun fact: I think I am funny</span></li>
-        <li style="margin-bottom: 10px;">💡 <span style="color: #DA70D6;">If any projects, you find useful feel free to contribute</span></li>
-    </ul>
-</div>
 
 <h2 align="center">Languages & Tools</h2>
 <br>
