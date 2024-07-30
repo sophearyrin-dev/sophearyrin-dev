@@ -20,6 +20,13 @@
 
 ![snake gif](https://github.com/sophearyrin-dev/sophearyrin-dev/blob/output/github-contribution-grid-snake.svg)
 
+<samp>
+  <a href="https://github.com/sophearyrin-dev">
+    <img alt="YT activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sophearyrin-dev&theme=github-compact&hide_border=true" />
+  </a>
+  <br/>
+</samp>
+
 <hr>
 
 <div style="font-family: Arial, sans-serif; background-color: #f0f8ff; color: #333; margin: 20px;">
