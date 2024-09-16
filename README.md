@@ -268,11 +268,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearyrin-dev&layout=compact)](https://github.com/sophearyrin-dev/github-readme-stats) -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophearyrin-dev&show_icons=true&locale=en&layout=compact" alt="sophearyrin-dev" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophearyrin-dev&show_icons=true&locale=en&layout=compact" alt="sophearyrin-dev" style="width: 400px; height: 150px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophearyrin-dev" alt="sophearyrin-dev" style="width: 400px; height: 150px; object-fit: cover;" />
+</div>
 
-<hr>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophearyrin-dev&" alt="sophearyrin-dev" /></p>
+
 
 <hr>
 <h2 align="left">License</h2>
