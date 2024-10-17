@@ -12,7 +12,7 @@
 
 <!-- <img align="right" alt="Coding" width="100" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" /> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&locale=en&hide_border=true" alt="sophearyrin-dev" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sophearyrin-dev&show_icons=true&locale=en&hide_border=true" alt="sophearyrin-dev" /></p> -->
 
 
 ## My 🐍 Contribution
