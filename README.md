@@ -1,6 +1,8 @@
 <!-- ![MasterHead](https://marketplace.canva.com/EAFFI2trtnE/1/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-cqVV-6-1kOk.jpg) -->
 ![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
 
+<i>Hi, I'm Sopheary, a dedicated backend Java Developer with expertise in Java, Spring Boot, Microservices, and SQL. I'm constantly improving my skills through the full SDLC and love tackling problem solving. I'm also expanding into full-stack development, focusing on Angular and devops. :)</i>
+
 <!-- https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png -->
 
 <a href="https://twitter.com/RinSopheary" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
