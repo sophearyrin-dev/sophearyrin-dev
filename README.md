@@ -283,6 +283,7 @@
 
 [![Licence](https://img.shields.io/github/license/sophearyrin-dev/sophearyrin-dev?style=for-the-badge)](./LICENSE)
 
+<!--
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -308,3 +309,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+-->
