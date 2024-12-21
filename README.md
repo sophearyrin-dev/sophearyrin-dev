@@ -5,8 +5,10 @@
 
 <!-- https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png -->
 
+
 <a href="https://twitter.com/RinSopheary" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.instagram.com/sophearyrinn/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sophearyrin" target="_blank">Follow on LinkedIn</a>
 <h2 align="center" color="blue"></h2>
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sophearyrin-dev.github.io/)
