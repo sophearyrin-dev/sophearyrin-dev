@@ -11,7 +11,7 @@
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sophearyrin" target="_blank">Follow on LinkedIn</a> 4300+ followers
 <h2 align="center" color="blue"></h2>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sophearyrin-dev.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sophearyrin.netlify.app/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=sophearyrin-dev)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sopheary/)
 
